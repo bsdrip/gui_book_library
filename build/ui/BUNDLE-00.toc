@@ -1,1 +1,0 @@
-([('ui', '/Users/bsdrip/Dev/gui_book_library/dist/ui', 'EXECUTABLE')],)
